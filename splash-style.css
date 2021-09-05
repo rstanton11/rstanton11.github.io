@@ -1,0 +1,28 @@
+
+.top-div {
+    display: flex;
+}
+
+main {
+    width: 66%;
+    padding: 5em;
+    border-width: 2em;
+    border-radius: .3em;
+    border-color: darkkhaki;
+}
+.task-panel {
+    padding: 1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    background-color: rgb(124, 178, 223);
+    width: 33%;
+    border-radius: .3em;
+}
+
+.task {
+    color:rgb(28, 48, 65);
+    background-color: aliceblue;
+    border-radius: .2em;
+    margin: .5em;
+    padding: .5em;
+}
